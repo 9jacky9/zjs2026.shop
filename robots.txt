@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://zjs2026.shop/sitemap.xml
